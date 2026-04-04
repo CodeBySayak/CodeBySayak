@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Sayak Ghosh
 
+![](https://komarev.com/ghpvc/?username=CodeBySayak&label=Profile%20views&color=0e75b6&style=flat)
+
 🚀 Aspiring AI Engineer | Open Source Enthusiast | Backend Learner  
 
 ---
