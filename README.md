@@ -2,9 +2,12 @@
 
 # 👋 Hi, I'm Sayak Ghosh
 
+### Full Stack Developer | Competitive Programmer | Open Source Contributor
+
 ![](https://komarev.com/ghpvc/?username=CodeBySayak&label=Profile%20views&color=0e75b6&style=flat)
 
-### Full Stack Developer | Competitive Programmer | Open Source Contributor
+</div>
+
 ---
 
 ## 🧠 About Me
