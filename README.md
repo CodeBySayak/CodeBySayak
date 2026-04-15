@@ -19,6 +19,13 @@
 
 ---
 
+## 🌐 Coding Profiles
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/u/CodeBySayak/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/CodeBySayak)
+[![Codolio](https://img.shields.io/badge/Codolio-4CAF50?style=for-the-badge&logoColor=white)](https://codolio.com/profile/CodeBySayak)
+
+---
+
 ## 📱 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayak-ghosh-cs-ai-cyber/)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ghoshsayakhelium@gmail.com)
